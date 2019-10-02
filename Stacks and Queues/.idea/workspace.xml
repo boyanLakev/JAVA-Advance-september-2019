@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d592bcc-6771-4fd5-99e4-c42e1ec8e32f" name="Default Changelist" comment="" />
+    <list default="true" id="4d592bcc-6771-4fd5-99e4-c42e1ec8e32f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/out/production/Stacks and Queues lab/_01_BrowserHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/src/_01_BrowserHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/src/_02_SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/src/_03_DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/src/_04_MatchingBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/src/_06_HotPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stacks and Queues lab/src/_07_MathPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01. Java-Advanced-Stacks-and-Queues-Exercises.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +31,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1RBwbD3ShfvCpiVR4ZSdGfqpU39" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -56,10 +71,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
